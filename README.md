@@ -1,5 +1,13 @@
 # 📖 Flipbook Web App
 
+> A mobile-friendly photo flipbook with page-turn animation and music.
+
+<p align="center">
+  <img src="docs/screenshots/desktop.jpg" width="72%" alt="Screenshot" />
+  <img src="docs/screenshots/mobile.jpg" width="18%" alt="Screenshot" />
+</p>
+
+
 A beautiful, mobile-friendly flipbook application built with React, Tailwind CSS, and StPageFlip.
 
 ## ✨ Features
