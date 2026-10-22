@@ -318,3 +318,7 @@ For issues or questions:
 ---
 
 Made with ❤️ for preserving beautiful memories
+
+## License
+
+Code is released under the [MIT License](LICENSE). Photos, video, artwork, audio and written content are not covered by it: personal media is © Prawal Sharma, all rights reserved, and third-party assets remain under their own licenses.
