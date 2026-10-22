@@ -2,6 +2,8 @@
 
 > A mobile-friendly photo flipbook with page-turn animation and music.
 
+**Live:** [praashi-lovebook.web.app](https://praashi-lovebook.web.app/)
+
 <p align="center">
   <img src="docs/screenshots/desktop.jpg" width="72%" alt="Screenshot" />
   <img src="docs/screenshots/mobile.jpg" width="18%" alt="Screenshot" />
